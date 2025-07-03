@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barcode-entry-app/static/css/main.fc684dd5.css",
+    "main.js": "/barcode-entry-app/static/js/main.305b27d3.js",
+    "static/js/453.0c4dde11.chunk.js": "/barcode-entry-app/static/js/453.0c4dde11.chunk.js",
+    "index.html": "/barcode-entry-app/index.html",
+    "main.fc684dd5.css.map": "/barcode-entry-app/static/css/main.fc684dd5.css.map",
+    "main.305b27d3.js.map": "/barcode-entry-app/static/js/main.305b27d3.js.map",
+    "453.0c4dde11.chunk.js.map": "/barcode-entry-app/static/js/453.0c4dde11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc684dd5.css",
+    "static/js/main.305b27d3.js"
+  ]
+}
